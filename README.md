@@ -1,5 +1,6 @@
 # Trendyol Front-End Bootcamp | VueJS Assignment
 Simple VueJS application that lists the starships elements using [The Star Wars API](https://swapi.dev/) 
+
 You can search for a specific starship also by name or model 
 
 ## Built With
